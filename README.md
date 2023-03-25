@@ -1,5 +1,10 @@
 # Assignment8
 
+Author: Anouksha Kolige Sreemurthy
+NUID: 002658325
+Email: sreemurthy.a@northeastern.edu
+
+
 * Created a user who takes 3 parameters full name, email, and password. Enforced a strong password rule and added validation for email and full name.
 API Endpoint:
 POST: /user/create – User creation with a meaningful message if the user email or password is invalid)
